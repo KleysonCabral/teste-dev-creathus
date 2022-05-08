@@ -14,11 +14,14 @@
 
 ## Frontend -> ReactJS & Vite
 
-- [ ] Iniciar o projeto Vite
-- [ ] Configurar o CSS Modules (CSS IN JS -> Estilização baseada em componentes)
-- [ ] Configurar o React Router DOM
+- [x] Iniciar o projeto Vite
+- [x] Configurar o CSS Modules
+- [x] Configurar o React Router DOM
 - [ ] Construir as páginas
-  - [ ] Listagem de filmes
+  - [x] Listagem de filmes
+    - [ ] Fazer o componente de sidebar
+    - [ ] Estilizar da forma como é no template
+    - [ ] Criar o componente de footer com a logo da Creathus
   - [ ] Criar um filme
   - [ ] Detalhes de um filme
   - [ ] Filmes favoritados

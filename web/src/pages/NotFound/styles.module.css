@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    min-height: 100vh;
+
+    background-color: azure;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}

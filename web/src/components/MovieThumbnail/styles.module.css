@@ -1,0 +1,44 @@
+.container {
+    width: min-content;
+    text-decoration: none;
+
+    transition: transform 1s;
+}
+
+.container:hover {
+    transform: scale(1.09);
+}
+
+.container p {
+    font-size: 14px;
+    color: #eb6710;
+
+    margin-top: 20px;
+    margin-bottom: 0.4rem;
+}
+
+.container h4 {
+    color: #eb6710;
+    font-size: 0.978rem;
+    font-weight: bold;
+}
+
+.frame {
+    -webkit-box-shadow: -1px -1px 15px 2px #ec722094;
+    box-shadow: -1px -1px 15px 2px #ec722094;
+
+    width: 155px;
+    height: 205px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    width: 150px;
+    height: 200px;
+
+    object-fit: cover;
+    object-position: top center;
+}
