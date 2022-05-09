@@ -1,0 +1,6 @@
+.container {
+    width: min-content;
+    text-decoration: none;
+
+    transition: transform 1s;
+}
