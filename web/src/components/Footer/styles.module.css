@@ -1,6 +1,11 @@
 .container {
-    width: min-content;
-    text-decoration: none;
-
-    transition: transform 1s;
+    width: 120px;
+    height: 10%;
+    top: 1032px;
+    margin-left: auto;
+    left: 0px;
+    position: absolute;
+    background-color: blue;
+    animation: showSider .4s;
+    opacity: 0.2;
 }
