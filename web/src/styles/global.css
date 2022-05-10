@@ -7,4 +7,9 @@
 body {
     font-family: sans-serif;
     background: rgb(2, 1, 36);
+    color: #eb6710;
+}
+
+button, a {
+    color: #eb6710;
 }

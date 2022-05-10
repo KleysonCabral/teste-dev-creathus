@@ -1,10 +1,22 @@
+import { FiHome, FiUser } from 'react-icons/fi'
 import styles from './styles.module.css'
-import { FaBeer } from 'react-icons/fa';
 
 export function Sidebar() {
     return(
         <div className={styles.container}>
-            <h1 className={styles.title}>Menu</h1>
+            <h1 className={styles.brand}>C</h1>
+
+            <div className={styles.links}>
+                <a href="#">
+                    <FiHome size={26} color="#eb6710" />
+                    Início
+                </a>
+
+                <a href="#">
+                    <FiUser size={26} color="#eb6710" />
+                    Adicionar
+                </a>
+            </div>
         </div>
     )
 }

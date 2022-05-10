@@ -19,8 +19,8 @@
 - [x] Configurar o React Router DOM
 - [ ] Construir as páginas
   - [x] Listagem de filmes
-    - [ ] Fazer o componente de sidebar
-    - [ ] Estilizar da forma como é no template
+    - [x] Fazer o componente de sidebar
+    - [x] Estilizar da forma como é no template
     - [ ] Criar o componente de footer com a logo da Creathus
   - [ ] Criar um filme
   - [ ] Detalhes de um filme

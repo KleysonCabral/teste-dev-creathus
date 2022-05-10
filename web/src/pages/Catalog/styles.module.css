@@ -1,17 +1,43 @@
 .container {
-    width: 100%;
-
-    margin-top: 2rem;
-    padding: 1.5rem;
-    margin-left: 10rem;;
+    width: calc(100vw - 120px);
+    
+    margin-left: 80px;
+    padding: 10px 20px;   
 }
 
-.title {
-    color: #fff;
-    font-size: 2.756rem;
-    font-weight: bold;
+.header {
+    margin-bottom: 30px;
 
-    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    height: 30px;
+    width: 80px;
+
+    background-color: #eb6710;
+    color: #fff;
+
+    outline: none;
+    border: none;
+    border-radius: 6px;
+
+    align-self: flex-end;
+
+    margin: 16px 0px;
+    cursor: pointer;
+
+    transition: filter 0.4s;
+}
+
+.button:hover {
+    filter: brightness(1.45);
+}
+
+.header p {
+    font-weight: bold;
+    font-size: 18px;
 }
 
 .movies {
