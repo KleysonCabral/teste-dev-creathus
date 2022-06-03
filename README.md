@@ -1,6 +1,6 @@
 # CREATHUSFLIX
 
-<h4 align="center">O projeto consiste no desenvolvimento de uma mini plataforma colaboratirva de catálogo de filmes.</h4>
+<h4 align="center">O projeto consiste no desenvolvimento de uma mini plataforma colaborativa de catálogo de filmes.</h4>
 
 <br>
 
